@@ -1,0 +1,17 @@
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.csproj.AssemblyReference.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.AssemblyInfoInputs.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.AssemblyInfo.cs
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\bin\Debug\net6.0\Exemplo.Data.deps.json
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\bin\Debug\net6.0\Exemplo.Data.runtimeconfig.json
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\bin\Debug\net6.0\Exemplo.Data.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\bin\Debug\net6.0\Exemplo.Data.pdb
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\bin\Debug\net6.0\Exemplo.Business.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\bin\Debug\net6.0\Exemplo.Business.pdb
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.csproj.CopyComplete
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\refint\Exemplo.Data.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.pdb
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\Exemplo.Data.genruntimeconfig.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Data\obj\Debug\net6.0\ref\Exemplo.Data.dll

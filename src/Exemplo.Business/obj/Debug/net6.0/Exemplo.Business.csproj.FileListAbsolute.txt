@@ -1,0 +1,12 @@
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.csproj.AssemblyReference.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.AssemblyInfoInputs.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.AssemblyInfo.cs
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\bin\Debug\net6.0\Exemplo.Business.deps.json
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\bin\Debug\net6.0\Exemplo.Business.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\bin\Debug\net6.0\Exemplo.Business.pdb
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\refint\Exemplo.Business.dll
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\Exemplo.Business.pdb
+C:\WorkSpace\Projetos Pessoais\Exemplo\src\Exemplo.Business\obj\Debug\net6.0\ref\Exemplo.Business.dll
